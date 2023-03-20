@@ -1,5 +1,9 @@
 # smit.mp3
 
+## Warning
+
+This project is not finished. It is very much in development.
+Nothing is guaranteed to work, if you encounter a bug feel free to make a bug report following [this](#bug-reporting). If you want to contribute, please open a PR.
 
 ## Running
 #### Make sure you have python 3.8 installed. Might work with versions above 3.8, but I haven't tested it.
